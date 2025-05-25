@@ -1,2 +1,0 @@
-# Database-Token
-No Rusuh
